@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 28 May 2026 00:22:20 +0900</lastBuildDate>
+			<lastBuildDate>Thu, 28 May 2026 00:27:27 +0900</lastBuildDate>
 		
 			<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>[책 정보] Tipping the Velvet</title>
+				<link>https://example.org/posts/book-2/</link>
+				<pubDate>Thu, 28 May 2026 00:27:27 +0900</pubDate>
+				<guid>https://example.org/posts/book-2/</guid>
+				<description>자동 수집된 책 정보: Â£53.74</description>
+			</item>
 			<item>
 				<title>[책 정보] A Light in the Attic</title>
 				<link>https://example.org/posts/book-1/</link>
