@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 28 May 2026 00:37:39 +0900</lastBuildDate>
+			<lastBuildDate>Thu, 28 May 2026 00:42:45 +0900</lastBuildDate>
 		
 			<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>[책 정보] Sapiens: A Brief History of Humankind</title>
+				<link>https://example.org/posts/book-5/</link>
+				<pubDate>Thu, 28 May 2026 00:42:45 +0900</pubDate>
+				<guid>https://example.org/posts/book-5/</guid>
+				<description>자동 수집된 책 정보: Â£54.23</description>
+			</item>
 			<item>
 				<title>[책 정보] Sharp Objects</title>
 				<link>https://example.org/posts/book-4/</link>
